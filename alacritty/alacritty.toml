@@ -1,0 +1,14 @@
+[keyboard]
+bindings = [
+{ key = "Z", mods = "Control", action = "Copy" },
+{ key = "X", mods = "Control", action = "Paste" },
+{ key = "Q", mods = "Control", action = "ToggleViMode" },
+{ key = "Shift", mode = "Vi|~Search", action = "ToggleNormalSelection" },
+]
+
+[colors]
+[colors.primary]
+background = "#1b1b25"
+
+[font]
+normal = { family = "DroidSansM Nerd Font", style = "Regular" }
