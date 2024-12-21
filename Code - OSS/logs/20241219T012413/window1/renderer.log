@@ -1,0 +1,5 @@
+2024-12-19 01:24:16.218 [info] Started local extension host with pid 25035.
+2024-12-19 01:24:16.381 [info] Started initializing default profile extensions in extensions installation folder. file:///home/py/.vscode-oss/extensions
+2024-12-19 01:24:17.249 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/py/.vscode-oss/extensions
+2024-12-19 01:24:19.794 [info] [perf] Render performance baseline is 48ms
+2024-12-19 01:24:22.763 [error] Timed out waiting for authentication provider to register

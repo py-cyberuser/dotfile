@@ -1,0 +1,19 @@
+# TODO:
+# [Beautification Software]
+bsi3=on
+bszsh=on
+bsfish=off
+bsalacritty=on
+bspolybar=on
+bspicom=on
+bsrofi=on
+bsdemu=off
+bsdunst=off
+
+# TODO:
+# [Additional Software]
+asfzf=on
+# TODO:
+# [AUR Additional Software]
+aasspotify=off
+aasvscode=on

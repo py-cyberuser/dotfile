@@ -1,0 +1,15 @@
+# [Beautification Software]
+bsi3=on
+bszsh=off
+bsfish=off
+bsalacritty=off
+bspolybar=off
+bspicom=off
+bsrofi=off
+bsdemu=off
+bsdunst=off
+# [Additional Software]
+asfzf=off
+# [AUR Additional Software]
+aasspotify=on
+aasvscode=on

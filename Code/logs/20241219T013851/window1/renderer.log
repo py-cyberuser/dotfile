@@ -1,0 +1,33 @@
+2024-12-19 01:38:54.004 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 01:38:54.028 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 01:38:54.029 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 01:38:54.568 [info] Started local extension host with pid 42000.
+2024-12-19 01:38:54.747 [info] Started initializing default profile extensions in extensions installation folder. file:///home/py/.vscode/extensions
+2024-12-19 01:38:55.512 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/py/.vscode/extensions
+2024-12-19 01:38:56.285 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2024-12-19 01:38:58.061 [info] [perf] Render performance baseline is 34ms
+2024-12-19 01:40:39.366 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 01:40:39.366 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 01:40:39.366 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-19 01:40:39.744 [info] Started local extension host with pid 42279.
+2024-12-19 01:40:40.868 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2024-12-19 01:40:42.591 [info] [perf] Render performance baseline is 52ms
+2024-12-19 01:42:23.428 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-19 01:43:03.175 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-19 01:43:24.569 [error] this.c.delete is not a function: TypeError: this.c.delete is not a function
+    at TMe.add (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:7294)
+    at uU.addToHistory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:18112)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1340:36057
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:72431
+2024-12-19 01:43:26.639 [error] this.c.delete is not a function: TypeError: this.c.delete is not a function
+    at TMe.add (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:7294)
+    at uU.addToHistory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:18112)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1340:36057
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:72431
+2024-12-19 01:43:46.975 [error] this.c.delete is not a function: TypeError: this.c.delete is not a function
+    at TMe.add (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:7294)
+    at uU.addToHistory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:414:18112)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1340:36057
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:31:72431
+2024-12-19 01:43:50.122 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-19 01:45:00.038 [error] [network] #15: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
